@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World.";
+echo sprintf("Rocketeer Release %s.", basename(__DIR__));
