@@ -1,5 +1,5 @@
 {
-    "require": {
+    "require-dev": {
         "anahkiasen/rocketeer": "^2.2"
     }
 }
