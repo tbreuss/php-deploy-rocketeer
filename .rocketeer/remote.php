@@ -58,11 +58,7 @@ return [
     'permissions'    => [
 
         // The folders and files to set as web writable
-        'files'    => [
-            'app/database/production.sqlite',
-            'storage',
-            'public',
-        ],
+        'files'    => [],
 
         // Here you can configure what actions will be executed to set
         // permissions on the folder above. The Closure can return
